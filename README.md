@@ -11,6 +11,6 @@ Repo made for testing API tools such as TTS and LLM (for chatbots).
 ---
 
 ### _Large Language Model_ (LLM)
-| TTS API Tool          | Link                                     |
+| LLM API Tool          | Link                                     |
 | --------------------- | ---------------------------------------- |
 | Groq                  | https://console.groq.com/docs/quickstart |
